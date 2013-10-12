@@ -1,3 +1,5 @@
+// Version 0.4
+
 // Win32Project1.cpp : Defines the entry point for the application.
 //
 
