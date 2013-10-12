@@ -117,6 +117,12 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 
 VOID DoSomething()
 {
+	// Add some comment
+	return;
+}
+
+VOID DoSomething2()
+{
 	return;
 }
 
